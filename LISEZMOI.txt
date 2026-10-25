@@ -1,6 +1,0 @@
-EduPlan (espace directeur) - React + Vite
-
-  npm install
-  npm run dev        ->  http://localhost:5173
-
-Connexion : directeur@eduplan.ma  /  admin123   (modifiable dans src/store.js)
